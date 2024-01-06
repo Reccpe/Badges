@@ -1,1 +1,1 @@
-alert("This is tuto repo");
+const pair = "pair-ext";
